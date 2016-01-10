@@ -1,0 +1,74 @@
+html {
+      height: 100%;
+      background-color: #19296B
+;
+      color: white;
+    }
+    body {
+       width: 100%;
+       height: 100%;
+    }
+
+    header {
+        background-image: url("http://mikereidphotography.com/seattle,%20sunsets%20and%20miscellaneous/Seattle%20Skyline%20Night%20Reflection%20from%20Alki.jpg (Not automatically expanded because 6MB is too large. You can expand it anyway or open it in a new window. You can also change your preferences to allow images of any file size to auto expand.)
+
+
+");
+        background-size: auto 100%;
+        padding: 0;
+        font-size: 50px;
+        color: white;
+        display: block;
+        justify-content: center;
+        text-align: center;
+        vertical-align:
+    }
+    nav {
+
+        display: inline-block;
+        width: 100%;
+        vertical-align: bottom;
+        font-size: 50px;
+        justify-content: center;
+        text-align: center;
+    }
+    nav li {
+        float: left;
+    }
+
+    a {
+        color: white;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+
+
+
+.spacing {
+  width: 25%;
+}
+
+.imgformat {
+
+
+}
